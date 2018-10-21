@@ -33,3 +33,28 @@
 2. [哈密顿](https://en.wikipedia.org/wiki/William_Rowan_Hamilton)
 3. [图特](https://en.wikipedia.org/wiki/W._T._Tutte)
 4. [Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
+
+图分析的分层结构
+1. 图可视化
+2. 图算法
+3. 图存储
+
+各层面临的问题
+1. 可视化
+    - 海量数据可视化
+    - 超级节点可视化
+    - 元素布局
+2. 图算法
+    - 统计类   (数边,数点,数路径,分组数)
+    - 目标发现类 (找点,找边,找模式)
+3. 图存储
+    - 如何分割?
+
+图分析的应用类型
+1. 推荐类
+    - 社交好友推荐
+    - 电商商品推荐
+    - 搜索相关推荐
+2. 模式匹配目标识别
+    - 金融反欺诈
+    - 刑侦寻找嫌疑人
